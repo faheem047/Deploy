@@ -1,5 +1,6 @@
 package com.boxfuse.samples.javawarhello;
 
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
